@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+}
+.heading {
+    padding: 25px;
+    height: 100px;
+    background-color: rgb(161, 111, 3);
+}
+h1 {
+    font-size: 65px;
+    float: left;
+    margin-top: 15px;
+    font-family: 'Fredericka the Great';
+    text-shadow: rgb(245, 244, 244) 0px 0px 3px;
+}
+ul {
+    float: right;
+    margin-right: 70px;
+}
+li {
+    display: inline-block;
+    margin-right: 35px;
+    text-align: center;
+}
+a {
+    display: inline-block;
+    width: 150px;
+    padding: 10px 0;
+    text-decoration: underline;
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    font-family: 'Fredericka the Great';
+    text-shadow: rgb(245, 239, 235) 0px 0px 3px;
+}
+h2 {
+    background-image: url(https://wallpaperaccess.com/full/3437102.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    text-align: center;
+    padding-top: 180px;
+    font-size: 47px;
+    font-family: 'Fredericka the Great';
+}
+span {
+    color: rgb(0, 0, 0);
+    padding: 30px 40px;
+    text-transform: uppercase;
+    margin: 30px;
+    text-shadow: rgb(255, 126, 21) 0px 0px 3px;
+}
+
+h3 {
+    color: rgb(172, 113, 5);
+    font-size: 55px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Fredericka the Great';
+}
+ .artists {
+     display: flex;
+     flex-direction: row;
+     align-items: flex-start; 
+    }
+.artists img {
+        margin: 50px;
+        border: 2px solid rgb(182, 93, 20);
+        box-shadow: 3px 3px 8px 0px rgba(182 ,93 , 20, 0.3);
+        max-width: 500px;
+        height: 300px;
+    }
+    .names {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        color: rgb(190, 108, 0);
+        font-size: 33px;
+        margin-left: 5px;
+        padding-right: 50px;
+        font-family: 'Fredericka the Great';
+    }
+    .artname1 {
+        padding-right: 360px;
+    }
+    .artname2 {
+        padding-right: 45px;
+    }
+    .tattoos {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        flex-wrap: wrap; 
+    }
+    .tattoos img {
+        margin: 50px;
+        border: 2px solid rgb(182, 93, 20);
+        box-shadow: 3px 3px 8px 0px rgba(182 ,93 , 20, 0.3);
+        max-width: 600px;
+        height: 300px;
+        margin-left: 80px;
+    }
+    .end {
+        font-size: 40px;
+        color: black;
+        text-shadow: rgb(255, 126, 21) 0px 0px 3px;
+    }
+    h4 {
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-family: 'Fredericka the Great';
+        text-shadow: rgb(255, 126, 21) 0px 0px 3px;
+    }
+    .contact {
+        background-image: url(https://wallpaperaccess.com/full/3437102.jpg);
+    }
+       
+   
